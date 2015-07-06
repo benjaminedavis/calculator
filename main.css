@@ -1,0 +1,75 @@
+.container{
+  background-color: #c8c8c8;
+  font-size: 41px;
+  font-weight: bolder;
+  width: 375px;
+  height: 428px;
+  padding: 15px 15px 15px 15px;
+  border-radius: 20px;
+  border: 6px solid black;
+  margin: 0 auto;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.clear{
+  width: 82px;
+  height: 80px;
+  font-size: 41px;
+  font-weight: bolder;
+  margin: 3px 3px 3px 3px;
+  border-radius: 20px;
+  background-color: #ff4c4c;
+  color: white;
+  border: 2px solid black;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.calcdisplay{
+  float: right;
+  width: 268px;
+  height: 75px;
+  font-size: 41px;
+  font-weight: bolder;
+  margin: 3px 3px 3px 3px;
+  border-radius: 20px;
+  border: 2px solid black;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.digit{
+  width: 80px;
+  height: 80px;
+  font-size: 41px;
+  font-weight: bolder;
+  margin: 3px 3px 3px 3px;
+  background-color: #a8a8a8;
+  border-radius: 20px;
+  border: 2px solid black;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.operator{
+  width: 80px;
+  height: 80px;
+  font-size: 41px;
+  font-weight: bolder;
+  margin: 3px 3px 3px 3px;
+  border-radius: 20px;
+  background-color: #707070;
+  color: white;
+  border: 2px solid black;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.operatorequals{
+  width: 80px;
+  height: 80px;
+  font-size: 41px;
+  font-weight: bolder;
+  margin: 3px 3px 3px 3px;
+  border-radius: 20px;
+  background-color: #4c4cff;
+  color: white;
+  border: 2px solid black;
+  box-shadow: 2px 2px 4px #000000;
+}
